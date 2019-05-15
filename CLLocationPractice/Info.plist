@@ -41,5 +41,7 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>앱을 실행하는 동안 현재 위치를 사용해도 되겠습니까?</string>
 </dict>
 </plist>
